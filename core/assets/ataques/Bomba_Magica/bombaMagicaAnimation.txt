@@ -1,0 +1,180 @@
+bombaMagicaAnimation.png
+size: 640, 640
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bombaMagica1
+  rotate: false
+  xy: 0, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+bombaMagica2
+  rotate: false
+  xy: 128, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+bombaMagica3
+  rotate: false
+  xy: 256, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+bombaMagica4
+  rotate: false
+  xy: 384, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+bombaMagica5
+  rotate: false
+  xy: 512, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+bombaMagica6
+  rotate: false
+  xy: 0, 128
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+bombaMagica7
+  rotate: false
+  xy: 128, 128
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+bombaMagica8
+  rotate: false
+  xy: 256, 128
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+bombaMagica9
+  rotate: false
+  xy: 384, 128
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+bombaMagica10
+  rotate: false
+  xy: 512, 128
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+bombaMagica11
+  rotate: false
+  xy: 0, 256
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+bombaMagica12
+  rotate: false
+  xy: 128, 256
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+bombaMagica13
+  rotate: false
+  xy: 256, 256
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+bombaMagica14
+  rotate: false
+  xy: 384, 256
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+bombaMagica15
+  rotate: false
+  xy: 512, 256
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+bombaMagica16
+  rotate: false
+  xy: 0, 384
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+bombaMagica17
+  rotate: false
+  xy: 128, 384
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+bombaMagica18
+  rotate: false
+  xy: 256, 384
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+bombaMagica19
+  rotate: false
+  xy: 384, 384
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+bombaMagica20
+  rotate: false
+  xy: 512, 384
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+bombaMagica21
+  rotate: false
+  xy: 0, 512
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+bombaMagica22
+  rotate: false
+  xy: 128, 512
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+bombaMagica23
+  rotate: false
+  xy: 256, 512
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+bombaMagica24
+  rotate: false
+  xy: 384, 512
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+bombaMagica25
+  rotate: false
+  xy: 512, 512
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1

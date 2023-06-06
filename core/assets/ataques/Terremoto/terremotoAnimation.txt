@@ -1,0 +1,95 @@
+terremotoAnimation.png
+size: 512, 512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+terremoto_1
+  rotate: false
+  xy: 0, -20
+  size: 128, 128
+  split: 32, 32, 32, 19
+  pad: 32, 32, 32, 32
+  orig: 128, 128
+  offset: 0, 0
+  index: 1
+terremoto_2
+  rotate: false
+  xy: 128, -20
+  size: 128, 128
+  split: 32, 32, 32, 19
+  pad: 32, 32, 32, 32
+  orig: 128, 128
+  offset: 0, 0
+  index: 2
+terremoto_3
+  rotate: false
+  xy: 256, -20
+  size: 128, 128
+  split: 32, 32, 32, 18
+  pad: 32, 32, 32, 32
+  orig: 128, 128
+  offset: 0, 0
+  index: 3
+terremoto_4
+  rotate: false
+  xy: 384, -20
+  size: 128, 128
+  split: 32, 32, 32, 18
+  pad: 32, 32, 32, 32
+  orig: 128, 128
+  offset: 0, 0
+  index: 4
+terremoto_5
+  rotate: false
+  xy: 0, 108
+  size: 128, 128
+  split: 32, 32, 32, 17
+  pad: 32, 32, 32, 32
+  orig: 128, 128
+  offset: 0, 0
+  index: 5
+terremoto_6
+  rotate: false
+  xy: 128, 108
+  size: 128, 128
+  split: 32, 32, 32, 18
+  pad: 32, 32, 32, 32
+  orig: 128, 128
+  offset: 0, 0
+  index: 6
+terremoto_7
+  rotate: false
+  xy: 256, 108
+  size: 128, 128
+  split: 32, 32, 32, 18
+  pad: 32, 32, 32, 32
+  orig: 128, 128
+  offset: 0, 0
+  index: 7
+terremoto_8
+  rotate: false
+  xy: 384, 108
+  size: 128, 128
+  split: 32, 32, 32, 17
+  pad: 32, 32, 32, 32
+  orig: 128, 128
+  offset: 0, 0
+  index: 8
+terremoto_9
+  rotate: false
+  xy: 0, 256
+  size: 128, 108
+  split: 32, 32, 32, 17
+  pad: 32, 32, 32, 32
+  orig: 128, 128
+  offset: 0, 0
+  index: 9
+terremoto_10
+  rotate: false
+  xy: 128, 236
+  size: 128, 128
+  split: 32, 32, 32, 18
+  pad: 32, 32, 32, 32
+  orig: 128, 128
+  offset: 0, 0
+  index: 10

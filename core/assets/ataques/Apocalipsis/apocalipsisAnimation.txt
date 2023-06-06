@@ -1,0 +1,117 @@
+apocalipsisAnimation.png
+size: 572, 572
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+apoca1
+  rotate: false
+  xy: 0, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+apoca2
+  rotate: false
+  xy: 128, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+apoca3
+  rotate: false
+  xy: 256, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+apoca4
+  rotate: false
+  xy: 384, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+apoca5
+  rotate: false
+  xy: 0, 128
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+apoca6
+  rotate: false
+  xy: 128, 128
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+apoca7
+  rotate: false
+  xy: 256, 128
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+apoca8
+  rotate: false
+  xy: 384, 128
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+apoca9
+  rotate: false
+  xy: 0, 256
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+apoca10
+  rotate: false
+  xy: 128, 256
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+apoca11
+  rotate: false
+  xy: 256, 256
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+apoca12
+  rotate: false
+  xy: 384, 256
+  size: 143, 143
+  orig: 143, 143
+  offset: 0, 0
+  index: -1
+apoca13
+  rotate: false
+  xy: 0, 399
+  size: 143, 143
+  orig: 143, 143
+  offset: 0, 0
+  index: -1
+apoca14
+  rotate: false
+  xy: 143, 399
+  size: 143, 143
+  orig: 143, 143
+  offset: 0, 0
+  index: -1
+apoca15
+  rotate: false
+  xy: 286, 399
+  size: 143, 143
+  orig: 143, 143
+  offset: 0, 0
+  index: -1
+apoca16
+  rotate: false
+  xy: 429, 399
+  size: 143, 143
+  orig: 143, 143
+  offset: 0, 0
+  index: -1
